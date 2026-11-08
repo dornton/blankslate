@@ -1,6 +1,7 @@
 # BlankSlate
-Landing page for a burner identity product. React and Vite, no backend. The Generate
+Landing page for my project, a burner identity generator! React and Vite, no backend. The Generate
 button fills the session card with sample data. Nothing is sent anywhere.
+this is just open-source for the front-end obvy im not showing the backend
 ## Run it
 ```
 npm install
