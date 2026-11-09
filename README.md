@@ -1,4 +1,6 @@
 # BlankSlate
+<img width="2804" height="1314" alt="image" src="https://github.com/user-attachments/assets/ada3c73c-b819-44fe-8f9b-15ae526b5001" />
+
 Landing page for my project, a burner identity generator! React and Vite, no backend. The Generate
 button fills the session card with sample data. Nothing is sent anywhere.
 this is just open-source for the front-end obvy im not showing the backend
